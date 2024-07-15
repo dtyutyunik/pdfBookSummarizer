@@ -1,8 +1,3 @@
-# pdfBookSummarizer
-Here's the updated README with the correct markdown syntax for headings and emphasis:
-
----
-
 # PDF Book Summariser
 
 ![PDF Book Summariser](./PdfSummary.png)
