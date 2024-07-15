@@ -1,0 +1,15 @@
+.custom-input{
+    height: 60px !important;
+}
+
+.custom-button{
+    height: 60px !important;
+}
+
+.hero{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../../images/library.jpeg');
+    height:50vh;
+    color:white;
+    background-position: center;
+
+}
